@@ -12,59 +12,52 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zaira =====
-[1]Zaira       |16:33:47 | 12-10-2026| login OK @zairamelinda | score=990 rank=6231
-[1]Zaira       |16:33:47 | 12-10-2026| serverTime=2026-10-12T16:33:47.000Z local=2026-10-12T16:33:47.692Z
+[1]Zaira       |14:51:40 | 13-10-2026| login OK @zairamelinda | score=1100 rank=5553
+[1]Zaira       |14:51:40 | 13-10-2026| serverTime=2026-10-13T14:51:39.000Z local=2026-10-13T14:51:40.040Z
 --> [1]Zaira menjalankan: Claim Daily
-[1]Zaira       |16:33:49 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Zaira menjalankan: Auto All Tasks (10 pending)
-[1]Zaira       |16:33:51 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683384879297332
-[1]Zaira       |16:33:51 | 12-10-2026| delay 10s...
-[1]Zaira       |16:34:03 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683612078037857
-[1]Zaira       |16:34:03 | 12-10-2026| delay 10s...
-[1]Zaira       |16:34:16 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683693158690196
-[1]Zaira       |16:34:16 | 12-10-2026| delay 10s...
-[1]Zaira       |16:34:28 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683515985300519
-[1]Zaira       |16:34:28 | 12-10-2026| delay 10s...
-[1]Zaira       |16:34:41 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Zaira       |16:34:41 | 12-10-2026| delay 10s...
-[1]Zaira       |16:34:53 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683937726893931
-[1]Zaira       |16:34:53 | 12-10-2026| delay 10s...
-[1]Zaira       |16:35:05 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109684021982284572
-[1]Zaira       |16:35:05 | 12-10-2026| delay 10s...
-[1]Zaira       |16:35:18 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683871269896856
-[1]Zaira       |16:35:18 | 12-10-2026| delay 10s...
-[1]Zaira       |16:35:30 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2109683983743610526
-[1]Zaira       |16:35:30 | 12-10-2026| delay 10s...
-[1]Zaira       |16:35:42 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Zaira       |16:35:42 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zaira       |16:35:44 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/zairamelinda/status/2109684066237776991
+[1]Zaira       |14:51:41 | 13-10-2026| daily: sudah klaim (already=true) score=1100
+--> [1]Zaira menjalankan: Auto All Tasks (3 pending)
+[1]Zaira       |14:51:43 | 13-10-2026| [1/3] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2110020395617603919
+[1]Zaira       |14:51:43 | 13-10-2026| delay 10s...
+[1]Zaira       |14:51:56 | 13-10-2026| [2/3] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/zairamelinda/status/2110020431698359599
+[1]Zaira       |14:51:56 | 13-10-2026| delay 10s...
+[1]Zaira       |14:52:11 | 13-10-2026| [3/3] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Zaira       |14:52:11 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zaira       |14:52:13 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/zairamelinda/status/2110020474215812514
 --> [1]Zaira menjalankan: Watch Anime
-[1]Zaira       |16:35:45 | 12-10-2026| watch: semua video sudah completed
+[1]Zaira       |14:52:14 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Zaira       |14:52:14 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Zaira       |14:52:16 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Zaira       |14:52:21 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Zaira       |14:52:24 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Zaira       |14:52:29 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Zaira       |14:52:31 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Zaira menjalankan: Read Article
-[1]Zaira       |16:35:46 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Zaira       |16:35:47 | 12-10-2026| mint eligibility: {"userId":"1723113547180437504","youtube":{"url":"https://www.youtube.com/@mzairaa","status":"submitted","revision":"60fe5c8a-244c-4f3d-a72b-0947cb760c87","submittedAt":1791668790,"reviewedAt":1791687
-[1]Zaira       |16:35:47 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Zaira       |14:52:48 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Zaira       |14:52:50 | 13-10-2026| mint eligibility: {"userId":"1723113547180437504","youtube":{"url":"https://www.youtube.com/@mzairaa","status":"submitted","revision":"60fe5c8a-244c-4f3d-a72b-0947cb760c87","submittedAt":1791668790,"reviewedAt":1791687
+[1]Zaira       |14:52:50 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Zaira menjalankan: Quiz Anime
-[1]Zaira       |16:35:47 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Zaira       |16:35:47 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Zaira       |16:35:47 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Zaira       |16:35:47 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Zaira       |16:35:47 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Zaira       |16:35:47 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Zaira       |14:52:51 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Zaira       |14:52:51 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Zaira       |14:52:51 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Zaira       |14:52:51 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Zaira       |14:52:51 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Zaira       |14:52:51 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Zaira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zaira       |16:35:50 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Zaira       |16:35:50 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Zaira       |16:35:50 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zaira       |16:35:50 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zaira       |14:52:54 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zaira       |14:52:55 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Zaira       |14:52:55 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zaira       |14:52:55 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zaira menjalankan: Claim Missions
-[1]Zaira       |16:35:51 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Zaira       |16:35:51 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zaira       |16:35:51 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zaira       |14:52:56 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Zaira       |14:52:56 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zaira       |14:52:56 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zaira menjalankan: Check Eligibility
 
 --- eligibility [1]Zaira ---
-  @zairamelinda | score=990 rank=6231
-  tasks    [##################--] 70/80
+  @zairamelinda | score=1100 rank=5553
+  tasks    [###################-] 75/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -72,17 +65,18 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zaira menjalankan: Read Manga
-[1]Zaira       |16:35:55 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Zaira       |14:53:02 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zaira menjalankan: Get Gift
-[1]Zaira       |16:35:56 | 12-10-2026| gift: 0/3 belum diterima
+[1]Zaira       |14:53:03 | 13-10-2026| gift: 1/4 belum diterima
+[1]Zaira       |14:53:05 | 13-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Zaira menjalankan: Setup Profile
-[1]Zaira       |16:35:56 | 12-10-2026| profile: bio="https://x.com/zairamelinda" fav=yuki rewardAt=1791688884
-[1]Zaira       |16:35:56 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Zaira       |14:53:08 | 13-10-2026| profile: bio="https://x.com/zairamelinda" fav=yuki rewardAt=1791688884
+[1]Zaira       |14:53:08 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zaira menjalankan: Bind Wallet
-[1]Zaira       |16:35:57 | 12-10-2026| wallet: sudah terikat DuaFa3pUNn... (solana)
+[1]Zaira       |14:53:09 | 13-10-2026| wallet: sudah terikat DuaFa3pUNn... (solana)
 
 == RINGKASAN ==
-- Zaira: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Zaira: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
